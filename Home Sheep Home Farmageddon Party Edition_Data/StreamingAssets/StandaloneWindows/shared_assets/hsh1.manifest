@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 1685220012
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6dac9c875391284c25d0650dd3a3e85f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 63c3d07eba368db17cd9186f98ce4f1b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 62
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/Sprites/LevelObjects/HSH1/crate 01.png
+- Assets/Sprites/LevelObjects/HSH1/swing 01.png
+- Assets/Animation/Button/Stay/ButtonStayHSH1.overrideController
+- Assets/Sprites/LevelObjects/HSH1/pipe.png
+- Assets/Sprites/Backgrounds/HSH1_Backgrounds/hsh1_sl_01.png
+- Assets/Sprites/LevelObjects/HSH1/hsh1_arrowsign.png
+- Assets/Sprites/LevelObjects/HSH1/hsh1_prop_plank 1.png
+- Assets/Sprites/LevelObjects/HSH1/Socks/sock_00.png
+- Assets/Animation/Button/Spring/Down_HSH1.anim
+- Assets/Sprites/LevelObjects/HSH1/hsh1_signpost.png
+- Assets/Sprites/LevelObjects/HSH1/physicsSwitch_door_01_down.png
+- Assets/Sprites/LevelObjects/HSH1/slidingPlank.png
+- Assets/Animation/Button/Stay/Up_HSH1.anim
+- Assets/Sprites/LevelObjects/HSH1/Socks/sock_02.png
+- Assets/Sprites/LevelObjects/HSH1/cardboard box.png
+- Assets/Sprites/LevelObjects/HSH1/cabbage.png
+- Assets/Sprites/LevelObjects/HSH1/Socks/sock_01.png
+- Assets/Sprites/LevelObjects/HSH1/physicsSwitch_spring_down.png
+- Assets/Sprites/LevelObjects/HSH1/plank01.png
+- Assets/Sprites/LevelObjects/HSH1/hsh1_prop_hay 1.png
+- Assets/Sprites/LevelObjects/HSH1/physicsSwitch_spring_up.png
+- Assets/Sprites/LevelObjects/HSH1/tramp0001.png
+- Assets/Sprites/LevelObjects/HSH1/gate01.png
+- Assets/Animation/Button/Spring/ButtonSpringHSH1.overrideController
+- Assets/Sprites/LevelObjects/HSH1/plank03.png
+- Assets/Animation/Button/Spring/Up_HSH1.anim
+- Assets/Sprites/LevelObjects/HSH1/rope 01.png
+- Assets/Sprites/UI/Chapter Complete/complete_farm.png
+- Assets/Sprites/LevelObjects/HSH1/peg 01.png
+- Assets/Sprites/LevelObjects/HSH1/tractor tyre.png
+- Assets/Sprites/LevelObjects/HSH1/hsh1_prop_hay 2.png
+- Assets/Sprites/LevelObjects/HSH1/physicsSwitch_door_01.png
+- Assets/Physics/Materials/hsh1/haybale_override.physicsMaterial2D
+- Assets/Sprites/LevelObjects/HSH1/hay bail 01.png
+- Assets/Animation/Button/Stay/Down_HSH1.anim
+Dependencies:
+- D:/Development/Projects/Unity3D/Unity_2018/hsh_unity_lfs/AssetBundles/StandaloneWindows/shared_assets/shared_level

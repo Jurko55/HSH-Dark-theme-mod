@@ -1,0 +1,78 @@
+ManifestFileVersion: 0
+CRC: 3790155576
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 358c5e717304deb03fd2953560940329
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7ca6a2311c3b4b9e8f30a3a24a22a661
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/camperwheel_00.png
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/physicsCarWheel_01.png
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/bush_01.png
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/camper_00.png
+- Assets/Animation/GantryCamera/GantryCameraBroken.anim
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/SecurityLaser/security_laser atlas.spriteatlas
+- Assets/Animation/GantryCamera/GantryCamera.controller
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/misc_camera_000.png
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/bush_02.png
+- Assets/Animation/SecurityLaser/SecurityLaser.controller
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/camperboot_00.png
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/SecurityLamp/SecurityLampOn/securitylamp_on_008.png
+- Assets/Sprites/Backgrounds/HSH2_Backgrounds/sl021.png
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/bushbranch_gfx_00.png
+- Assets/Animation/TrafficLights/TrafficLightsAmber.anim
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/TrafficLights/trafficlights_green_000.png
+- Assets/Animation/SecurityLamp/SecurityLampOff.anim
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/busWheel_00.png
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/SecurityLamp/SecurityLampOn/securitylamp_on_002.png
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/door_london_00.png
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/physicsPendulum_00.png
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/SecurityLamp/SecurityLampOn/securitylamp_on_005.png
+- Assets/Animation/TrafficLights/TrafficLightsRed.anim
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/SecurityLamp/SecurityLampOn/securitylamp_on_009.png
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/TrafficLights/trafficlights_amber_000.png
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/lorry_00.png
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/SecurityLamp/SecurityLampOn/securitylamp_on_004.png
+- Assets/Animation/GantryCamera/GantryCameraFlash.anim
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/SecurityLamp/SecurityLampOff/securitylamp_off_000.png
+- Assets/Animation/SecurityLamp/SecurityLampOn.anim
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/SecurityLamp/SecurityLampOn/securitylamp_on_006.png
+- Assets/Animation/SecurityLamp/SecurityLamp.controller
+- Assets/Animation/TrafficLights/TrafficLightsGreen.anim
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/GantryCamera/gantry_camera atlas.spriteatlas
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/bus_00.png
+- Assets/Animation/GantryCamera/GantryCameraIdle.anim
+- Assets/Animation/TrafficLights/TrafficLights.controller
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/bush_00.png
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/misc_camerabase_000.png
+- Assets/Sprites/Backgrounds/HSH2_Backgrounds/sl020.png
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/SecurityLamp/SecurityLampOn/securitylamp_on_007.png
+- Assets/Sprites/Backgrounds/HSH2_Backgrounds/sl029.png
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/SecurityLamp/SecurityLampOn/securitylamp_on_000.png
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/TrafficLights/trafficlights_red_000.png
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/TrafficLights/trafficlights_redamber_000.png
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/SecurityLamp/SecurityLampOn/securitylamp_on_003.png
+- Assets/Animation/SecurityLaser/SecurityLaserIdle.anim
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/SecurityLamp/SecurityLampOn/securitylamp_on_001.png
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/bushbranch_gfx_02.png
+- Assets/Sprites/Backgrounds/HSH2_Backgrounds/bg_repeating_road/bg_repeating_road
+  atlas.spriteatlas
+- Assets/Sprites/UI/Chapter Complete/complete_london.png
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/SecurityLamp/SecurityLampOn/securitylamp_on_010.png
+- Assets/Animation/TrafficLights/TrafficLightsRedAmber.anim
+- Assets/Sprites/LevelObjects/HSH2/London/Objects/bushbranch_gfx_01.png
+Dependencies: []
