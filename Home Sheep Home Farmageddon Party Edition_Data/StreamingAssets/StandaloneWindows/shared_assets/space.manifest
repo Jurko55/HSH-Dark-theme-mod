@@ -1,0 +1,480 @@
+ManifestFileVersion: 0
+CRC: 612927115
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 03d4bfbeffecef96aa669fa055b74895
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2738727a5af8dd3cce9366cd2f7f32ed
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 09e39c60accfe2246a141fb74465beee, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e45fd821688f11644823a58c9db21a55, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 83984463be0e98042b556407e35e9528, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4a3340d42e1b7c84f9f11e6307a454c4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9a89238e848cd340bd53e9413647537, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9134ce79240f09e4bbb84a15a7c532b9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54f5a83e9d022d14c825469b9cf202a1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d7da82f4d9ec624cb1b9ee9c1ff8ec2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d8a25aef3c2e7494eb434f28fa60a32c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 331
+  Script: {instanceID: 0}
+Assets:
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_037.png
+- Assets/Animation/Alien/alien.controller
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_025.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_026.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_025.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_010.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_008.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_011.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_032.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_037.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_019.png
+- Assets/Prefabs/Objects/Teleporter_Manager.prefab
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_017.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/physicsBox_crate.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_027.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_044.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_025.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_out_010.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_063.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_003.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Hal/hal_loop_018.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_042.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Beam/satelitedish_beam_in_008.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_031.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_044.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/035_portalA_00.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_023.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_039.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_015.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_064.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_050.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_030.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_040.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Flame/rocketflame_ignite_010.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_010.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_018.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Beam/satelitedish_beam_out_010.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_024.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_046.png
+- Assets/Animation/Telporter/overloaded.anim
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_027.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_034.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_043.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_042.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_049.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_017.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Beam/satelitedish_beam_idle_000.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_012.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_008.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_003.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_041.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_004.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_061.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_018.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_069.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_053.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_028.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_000.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_in_005.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_000.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Hal/hal_loop_008.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Beam/satelitedish_beam_out_007.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_002.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_007.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_066.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Flame/rocketflame_ignite_003.png
+- Assets/Animation/Alien/alien_pressbutton.anim
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Beam/satelitedish_beam_in_003.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_028.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_001.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_005.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_005.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Forcefield_Beam/mat_forcefield_beam.mat
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_038.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_014.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_057.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_027.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_020.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_007.png
+- Assets/Animation/Satellitedish/satellitedish.controller
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_045.png
+- Assets/Animation/PortalGel/portalgel_idle.anim
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Hal/hal_loop_004.png
+- Assets/Animation/PortalGel/portalgel_out.anim
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Flame/rocketflame_ignite_008.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_028.png
+- Assets/Sprites/UI/Chapter Complete/complete_space.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_024.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Flame/rocketflame_ignite_002.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_035.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_025.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Beam/satelitedish_beam_in_001.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_038.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Flame/rocketflame_ignite_012.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_016.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_023.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_045.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Flame/rocketflame_ignite_000.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_032.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Beam/satelitedish_beam_in_002.png
+- Assets/Prefabs/Objects/portal_gel.prefab
+- Assets/Animation/PortalGel/portal_gel.controller
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_041.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Beam/satelitedish_beam_in_005.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_in_008.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Beam/satelitedish_beam_out_003.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_008.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_012.png
+- Assets/Animation/Alien/alien_idle.anim
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Flame/rocketflame_ignite_009.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_015.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_023.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Flame/rocketflame_ignite_001.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_059.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Hal/hal_loop_019.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_019.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_027.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_006.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_047.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_032.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Beam/satelitedish_beam_out_004.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_029.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_003.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_014.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_055.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_015.png
+- Assets/Animation/Telporter/field/teleporter_field.controller
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_001.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_067.png
+- Assets/Animation/Beam/beam_idle.anim
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_058.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_009.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_051.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_026.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_038.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Hal/hal_loop_011.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_011.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_051.png
+- Assets/Animation/Telporter/reset.anim
+- Assets/Prefabs/Objects/portal_multiplayer.prefab
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_035.png
+- Assets/Animation/Telporter/loaded.anim
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_048.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_047.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_002.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Hal/hal_loop_007.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_in_003.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_002.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_out_000.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_032.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_043.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_009.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_018.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_033.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_030.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_029.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_001.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_011.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Idle/alien_idle_003.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/exitsign_space_gfx_00.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Beam/satelitedish_beam_in_006.png
+- Assets/Animation/PortalGel/portalgel_in.anim
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_014.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_014.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_060.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_058.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Flame/rocketflame_loop_001.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Beam/satelitedish_beam_out_001.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_021.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_out_007.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_022.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Flame/rocketflame_loop_002.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_in_001.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_005.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_004.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/door_space_00.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_056.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_010.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_035.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_013.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_049.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Levels/Level41/041_physicsBox_box_a_00.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_in_002.png
+- Assets/Animation/Telporter/teleporter.controller
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_out_004.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_042.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Flame/rocketflame_ignite_006.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Idle/alien_idle_002.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_052.png
+- Assets/Animation/Beam/beam.controller
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_025.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Flame/rocketflame_loop_000.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_039.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Idle/alien_idle_004.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_021.png
+- Assets/Prefabs/Objects/portal.prefab
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_044.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_004.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_015.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_013.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Flame/rocketflame_ignite_007.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_038.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Forcefield_Beam/forcefield_beam.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_036.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_006.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_044.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_028.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_057.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_in_009.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Beam/satelitedish_beam_in_007.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_020.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_021.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_024.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_037.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_024.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_046.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_019.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_019.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_020.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_033.png
+- Assets/Animation/Telporter/idle.anim
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_007.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Hal/hal_loop_009.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_005.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Forcefield_Beam/forcefield_beam_mask.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_030.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_029.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_002.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_043.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_035.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_017.png
+- Assets/Animation/Satellitedish/satellitedish_zap.anim
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Hal/hal_loop_003.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_029.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_004.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_017.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_007.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_054.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_042.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_049.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_out_005.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_009.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_068.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_004.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_023.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_006.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_008.png
+- Assets/Animation/Flicker/Flicker.controller
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_017.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_012.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_000.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_000.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Flame/rocketflame_ignite_005.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_036.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_out_003.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_032.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_043.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_018.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Flame/rocketflame_ignite_004.png
+- Assets/Prefabs/Objects/physics_teleporter.prefab
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_062.png
+- Assets/Animation/Beam/beam_in.anim
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Hal/hal_loop_001.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_036.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_out_006.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_003.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_in_004.png
+- Assets/Animation/Flame/flame.controller
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_047.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_054.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_013.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_039.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_024.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_011.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_014.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_012.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_033.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Idle/alien_idle_001.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_039.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_041.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_030.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Beam/satelitedish_beam_out_000.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_041.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Flame/rocketflame_ignite_013.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Hal/hal_loop_015.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_023.png
+- Assets/Animation/Alien/alien_drinktea.anim
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_000.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_031.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_056.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Flame/rocketflame_loop_003.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_040.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_010.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_040.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_019.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_003.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Beam/satelitedish_beam_in_012.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_026.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_029.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Beam/satelitedish_beam_out_005.png
+- Assets/Prefabs/Objects/forcefield.prefab
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Hal/hal_loop_012.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_034.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_039.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_009.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_out_002.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_001.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Hal/hal_loop_014.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Beam/satelitedish_beam_out_008.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_027.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_020.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_012.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_008.png
+- Assets/Prefabs/Objects/alien.prefab
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_036.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_002.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_033.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_009.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_040.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_045.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_031.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/035_portalB_00.png
+- Assets/Animation/Flicker/Flicker.anim
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_044.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_016.png
+- Assets/Animation/Flame/loop.anim
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_007.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_018.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_037.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_042.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Beam/satelitedish_beam_in_011.png
+- Assets/Prefabs/Objects/satellitedish.prefab
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_010.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_001.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_048.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Hal/hal_loop_013.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_050.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_022.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Hal/hal_loop_017.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_033.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_020.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Beam/satelitedish_beam_out_009.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_in_010.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_038.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/037_portalB_01.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_022.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_015.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_in_000.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_016.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/physicsBox_box_00.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Beam/satelitedish_beam_in_009.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_041.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_006.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_022.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_031.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_048.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Hal/hal_loop_002.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_052.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Hal/hal_loop_006.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Hal/hal_loop_000.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_006.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_034.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_037.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/fieldB_bottom_00.png
+- Assets/Animation/Flame/ignite.anim
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_053.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_out_001.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_016.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Beam/satelitedish_beam_out_002.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_049.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_047.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Idle/alien_idle_000.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Beam/satelitedish_beam_out_006.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_021.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Beam/satelitedish_beam_in_004.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Hal/hal_loop_005.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_026.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_034.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_022.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_028.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_030.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_045.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_046.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_055.png
+- Assets/Animation/Hal/hal.anim
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Flame/rocketflame_ignite_011.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_043.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_in_006.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_013.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Hal/hal_loop_010.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_031.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_034.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Beam/satelitedish_beam_in_000.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_out_008.png
+- Assets/Animation/Beam/beam_out.anim
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_040.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Hal/hal_loop_016.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_035.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_046.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Beam/satelitedish_beam_in_010.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_in_007.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_036.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_005.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_026.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_out_009.png
+- Assets/Animation/Telporter/field/teleport.anim
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/fieldA_top_00.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_idle_000.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Portal/Portalgel/portalgel_idle_048.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/physicsBoxLowFriction_safe_00.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_065.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Drink Tea/alien_drinktea_016.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/Teleporter Field/teleporter_field_021.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Satellitedish/satelitedish_zap_011.png
+- Assets/Animation/Hal/hal.controller
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Alien/Press Button/alien_pressbutton_013.png
+Dependencies:
+- D:/Development/Projects/Unity3D/Unity_2018/hsh_unity_lfs/AssetBundles/StandaloneWindows/shared_assets/shared_level

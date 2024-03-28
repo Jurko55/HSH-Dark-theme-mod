@@ -1,0 +1,178 @@
+ManifestFileVersion: 0
+CRC: 3590399114
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 69d74523ccf0e8243cf56e78f3cff4b7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 659374bdccc06c03a2cd7d7724995ba3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 45c1fdea0b1d1004a8f0ae3bbb0a3d10, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 82b168ff78696e54192c38edf6c4346e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_011.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Water/water_waves_000.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_000.png
+- Assets/Animation/Scanner/scanner_scan.anim
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Water/water_base_000.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_025.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Laser/scanner_laser_003.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Windsock/windsock_00.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_012.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Fail/scanner_fail_000.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Laser/scanner_laser_005.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Windlass wind/windlass_wind_022.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Windlass wind/windlass_wind_027.png
+- Assets/Sprites/UI/Chapter Complete/complete_underground.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Windlass wind/windlass_wind_007.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Windlass wind/windlass_wind_028.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_048.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Windlass wind/windlass_wind_021.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Windlass wind/windlass_wind_017.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/lift_00.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_045.png
+- Assets/Animation/Plane/plane.controller
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Windlass wind/bucket_mask.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Windlass wind/windlass_wind_010.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Windlass wind/windlass_wind_018.png
+- Assets/Animation/Scanner/scanner_idle.anim
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_016.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Windlass wind/windlass_wind_008.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Windlass wind/windlass_wind_025.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_036.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Windlass wind/windlass_wind_015.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_007.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Levels/Level14/mat_cracks_outer.mat
+- Assets/Prefabs/Objects/Spark.prefab
+- Assets/Animation/Windsock/windsock_ignition.anim
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Windlass wind/windlass_wind_026.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Windlass wind/windlass_wind_006.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Windlass wind/windlass_wind_024.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Windlass wind/windlass_wind_004.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_042.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Spark/spark_04.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Windlass wind/windlass_wind_029.png
+- Assets/Animation/Plane/plane_launch.anim
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_039.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/arrowsign_mines_00.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Windlass wind/windlass_wind_030.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/bucket_01.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_015.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_037.png
+- Assets/Sprites/Backgrounds/HSH2_Backgrounds/cracks_middle_000-hd.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Laser/scanner_laser_001.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_032.png
+- Assets/Animation/Windlass/well.controller
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_014.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_009.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Windlass wind/windlass_wind_005.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Windlass wind/windlass_wind_020.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/door_mines_00.png
+- Assets/Animation/Scanner/scanner_ok.anim
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_003.png
+- Assets/Animation/Windsock/windsock.controller
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_030.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Windlass wind/windlass_wind_000.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Windlass wind/windlass_wind_013.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_043.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Windlass wind/windlass_wind_011.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_021.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Windlass wind/windlass_wind_016.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/physics_parachute_00.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_005.png
+- Assets/Animation/Windlass/well_wind.anim
+- Assets/Sprites/Backgrounds/HSH2_Backgrounds/cracks_outer_000-hd.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/minecart_00.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Laser/scanner_laser_002.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Windlass wind/windlass_wind_014.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Laser/scanner_laser_004.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_002.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_013.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_017.png
+- Assets/Sprites/Backgrounds/HSH2_Backgrounds/cracks_inner_000-hd.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Laser/scanner_laser_000.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Windlass wind/windlass_wind_003.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_018.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_023.png
+- Assets/Animation/Scanner/scanner_fail.anim
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Windlass wind/windlass_wind_009.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Water/mat_water_wave.mat
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Spark/spark_02.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_024.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_019.png
+- Assets/Animation/Windsock/windsock_default.anim
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_044.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_028.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_049.png
+- Assets/Animation/Spark/anim_spark.anim
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_026.png
+- Assets/Prefabs/Objects/water.prefab
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_006.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Ok/scanner_ok_000.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_022.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_047.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/plungerHandle_00.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Levels/Level14/mat_cracks_middle.mat
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Spark/spark_06.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Windlass wind/windlass_wind_019.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_033.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Idle/scanner_idle_000.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Windlass wind/windlass_wind_012.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_031.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_004.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Levels/Level14/mat_cracks_inner.mat
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/minewheel_00.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_040.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Windlass wind/windlass_wind_023.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/physicsBox_tnt_00.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_027.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_010.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_029.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Spark/spark_00.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_041.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Windlass wind/windlass_wind_002.png
+- Assets/Animation/Scanner/scanner.controller
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/physicsBox_plank_welded.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_020.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_035.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_038.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_008.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_046.png
+- Assets/Animation/Spark/Spark.controller
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_001.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/plungerBase_00.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Windlass wind/windlass_wind_001.png
+- Assets/Sprites/LevelObjects/HSH2/Underground/Objects/Scanner/Scan/scanner_scan_034.png
+Dependencies: []

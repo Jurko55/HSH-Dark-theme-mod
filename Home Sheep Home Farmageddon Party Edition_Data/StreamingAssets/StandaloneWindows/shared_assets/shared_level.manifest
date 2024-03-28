@@ -1,0 +1,415 @@
+ManifestFileVersion: 0
+CRC: 1812299501
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3f6a6dcbdc1d2fd54afd6d7b816cf4d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 545798aea8ffef3da29bc7d7a95c3c74
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1df38381dbfd65f4b82ee2aa0c8fc1b3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dde09403d1142344592ac109453ac20d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9a89238e848cd340bd53e9413647537, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5666e73a579334e438c994dfe083669c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7256a69a19102b64280718d772d41375, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54f5a83e9d022d14c825469b9cf202a1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5cce66ff349dc5443a66738a4db230d2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/Sprites/HintGFX/hintDraw18.png
+- Assets/Sprites/HintGFX/hintUnderline3.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_020.png
+- Assets/Sprites/HintGFX/hintArrow13.png
+- Assets/Sprites/HintGFX/hintArrow9.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_002.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_058.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_007.png
+- Assets/Sprites/HintGFX/hintTimmy.png
+- Assets/Sprites/UI/Main Menu/Level Start/dev_stars_sml.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_038.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_004.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage Idle/farmer_rage_idle_002.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_055.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage Idle/farmer_rage_idle_004.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Joy/farmer_joy_005.png
+- Assets/Animation/Button/Spring/ButtonSpring.controller
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_062.png
+- Assets/Sprites/HintGFX/hintDraw8.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Button/Spring/spring_up_space.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_087.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Button/Spring/spring_down_underground.png
+- Assets/Sprites/HintGFX/hintRock.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_003.png
+- Assets/Sprites/HintGFX/hintDraw1.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_009.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Joy/farmer_joy_010.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_039.png
+- Assets/Sprites/UI/Main Menu/Level Start/star_sml.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Joy/farmer_joy_015.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_016.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_073.png
+- Assets/Animation/Magnet/attract.anim
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_021.png
+- Assets/Animation/Trampoline/trampoline.controller
+- Assets/Prefabs/Objects/ButtonAnimationStay_underground.prefab
+- Assets/Animation/Button/Spring/Down.anim
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Joy/farmer_joy_012.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_049.png
+- Assets/Animation/Farmer/farmer_joy_idle.anim
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_030.png
+- Assets/Sprites/HintGFX/hintArrowBig.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_043.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_004.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_046.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Magnet/magnet_attract_003.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_057.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_061.png
+- Assets/Sprites/HintGFX/hintSpaceCrate.png
+- Assets/Sprites/Particles/Explosion/particle_explosion.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_089.png
+- Assets/Sprites/HintGFX/hintDraw16.png
+- Assets/Animation/Button/Stay/Up_Space.anim
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_052.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_085.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_034.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_045.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_012.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_056.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Joy/farmer_joy_001.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Button/Spring/spring_up_underground.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_019.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_064.png
+- Assets/Animation/Button/Spring/Up.anim
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Joy/farmer_joy_009.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_054.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Joy Idle/farmer_joy_idle_003.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_014.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_049.png
+- Assets/Prefabs/Objects/ButtonAnimationStay_space.prefab
+- Assets/Prefabs/Objects/magnet.prefab
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_084.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/cake_00.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_092.png
+- Assets/Prefabs/Objects/farmer.prefab
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_023.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_016.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_048.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Joy/farmer_joy_006.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_044.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Trampoline/TrampolineBounce/trampoline_bounce_009.png
+- Assets/Sprites/Particles/Sparkle_Collection/particle_sparkle.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_060.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_052.png
+- Assets/Sprites/HintGFX/hintDraw17.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Socks/sock_01.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Joy Idle/farmer_joy_idle_001.png
+- Assets/Animation/Button/Spring/Up_Underground.anim
+- Assets/Animation/Button/Spring/Up_London.anim
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_091.png
+- Assets/Sprites/HintGFX/hintDraw3.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_057.png
+- Assets/Sprites/HintGFX/hintDraw4.png
+- Assets/Animation/Button/Stay/Down_Underground.anim
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Joy/farmer_joy_003.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_010.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Joy Idle/farmer_joy_idle_000.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_010.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Button/Stay/stay_up_space.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Trampoline/TrampolineBounce/trampoline_bounce_011.png
+- Assets/Animation/Button/Spring/ButtonSpringUnderground.overrideController
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_050.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_029.png
+- Assets/Sprites/HintGFX/hintArrow11.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage Idle/farmer_rage_idle_003.png
+- Assets/Sprites/HintGFX/hintArrow7.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_054.png
+- Assets/Animation/Magnet/magnet_attract.controller
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Trampoline/TrampolineBounce/trampoline_bounce_012.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_036.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_001.png
+- Assets/Sprites/HintGFX/hintArrowhead2.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Joy Idle/farmer_joy_idle_002.png
+- Assets/Sprites/HintGFX/hintBrick.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage Idle/farmer_rage_idle_005.png
+- Assets/Animation/Button/Spring/Down_London.anim
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_008.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_042.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_037.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_061.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_029.png
+- Assets/Sprites/HintGFX/hintBigBox.png
+- Assets/Sprites/HintGFX/hintDraw14.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_022.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_026.png
+- Assets/Sprites/HintGFX/hintDraw5.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_067.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_032.png
+- Assets/Sprites/UI/Main Menu/Level Start/star_panel.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_065.png
+- Assets/Sprites/HintGFX/hintDraw2.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_027.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_003.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_075.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Joy/farmer_joy_008.png
+- Assets/Sprites/HintGFX/hintLittleHand.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_020.png
+- Assets/Sprites/HintGFX/hintArrow15.png
+- Assets/Prefabs/Objects/ButtonAnimationSpring_space.prefab
+- Assets/Prefabs/Objects/trampoline.prefab
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_006.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_011.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/teleporter_base_003.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_071.png
+- Assets/Sprites/HintGFX/hintBoxSmall.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Magnet/magnet_attract_002.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_000.png
+- Assets/Sprites/HintGFX/hintDraw15.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Button/Spring/spring_down_london.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_058.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_040.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_053.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_044.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Trampoline/TrampolineBounce/trampoline_bounce_010.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Joy/farmer_joy_000.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Socks/sock_02.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_035.png
+- Assets/Sprites/HintGFX/hintDraw10.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/teleporter_base_002.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_072.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_030.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage Idle/farmer_rage_idle_000.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_074.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_050.png
+- Assets/Prefabs/Objects/ButtonAnimationStay_london.prefab
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Joy/farmer_joy_013.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_067.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_043.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/magnet_00.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_038.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_033.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_062.png
+- Assets/Animation/Button/Stay/ButtonStaySpace.overrideController
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_059.png
+- Assets/Sprites/UI/Main Menu/Level Start/level_start_header.png
+- Assets/Sprites/Backgrounds/HSH2_Backgrounds/sky.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Trampoline/TrampolineBounce/trampoline_bounce_014.png
+- Assets/Sprites/HintGFX/hintBarrel.png
+- Assets/Animation/Button/Spring/ButtonSpringLondon.overrideController
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Button/Stay/stay_down_underground.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/sign_00.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_042.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_028.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Button/Spring/spring_down_space.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Joy/farmer_joy_011.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_059.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_081.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_047.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_040.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Joy/farmer_joy_016.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_068.png
+- Assets/Animation/Farmer/farmer_rage.anim
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_082.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_056.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_019.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_035.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/football_00.png
+- Assets/Prefabs/Objects/ButtonAnimationSpring_underground.prefab
+- Assets/Sprites/HintGFX/hintDraw11.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_053.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_077.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Magnet/magnet_attract_000.png
+- Assets/Prefabs/Particles/LevelParticles.prefab
+- Assets/Animation/Button/Stay/Down.anim
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_048.png
+- Assets/Sprites/HintGFX/hintSmallBox.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Joy/farmer_joy_002.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_023.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_041.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_024.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Joy/farmer_joy_004.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_031.png
+- Assets/Sprites/Particles/Explosion/ExplosionAtlas.mat
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_063.png
+- Assets/Sprites/HintGFX/hintDraw9.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_028.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/shared_level atlas.spriteatlas
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Joy/farmer_joy_007.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_013.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Trampoline/TrampolineIdle/trampoline_idle_000.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_080.png
+- Assets/Animation/Button/Spring/Down_Underground.anim
+- Assets/Sprites/HintGFX/hintArrow6.png
+- Assets/Animation/Button/Stay/ButtonStayLondon.overrideController
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_025.png
+- Assets/Sprites/Backgrounds/HSH2_Backgrounds/sky019.png
+- Assets/Sprites/HintGFX/hintHub.png
+- Assets/Sprites/UI/Main Menu/Level Start/tip_panel.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_041.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_069.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_070.png
+- Assets/Animation/Button/Stay/Up_London.anim
+- Assets/Sprites/HintGFX/hintPortal.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_013.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_070.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_031.png
+- Assets/Animation/Farmer/farmer_rage_2.anim
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_033.png
+- Assets/Sprites/HintGFX/hintArrow1.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_006.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage Idle/farmer_rage_idle_001.png
+- Assets/Animation/Farmer/farmer_rage_idle.anim
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_069.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_007.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_051.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_036.png
+- Assets/Sprites/HintGFX/hintArrow17.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_027.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_005.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Magnet/magnet_attract_005.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_009.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_051.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_015.png
+- Assets/Sprites/Particles/Sparkle_Collection/SparkleAtlas.mat
+- Assets/Animation/Button/Stay/ButtonStayUnderground.overrideController
+- Assets/Animation/Trampoline/TrampolineBounce.anim
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Joy Idle/farmer_joy_idle_004.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_022.png
+- Assets/Animation/Button/Spring/ButtonSpringSpace.overrideController
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_063.png
+- Assets/Sprites/HintGFX/hintShirley.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_086.png
+- Assets/Sprites/HintGFX/hintArrow8.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_012.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_025.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_018.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Trampoline/TrampolineBounce/trampoline_bounce_015.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_014.png
+- Assets/Sprites/HintGFX/hintUnderline2.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_008.png
+- Assets/Animation/Trampoline/TrampolineIdle.anim
+- Assets/Animation/Button/Stay/Up.anim
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_011.png
+- Assets/Animation/Button/Stay/ButtonStay.controller
+- Assets/Sprites/HintGFX/hintBigHand.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_090.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_021.png
+- Assets/Animation/Farmer/farmer.controller
+- Assets/Animation/Button/Spring/Up_Space.anim
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_024.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_079.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_060.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/teleporter_base_001.png
+- Assets/Animation/Button/Stay/Up_Underground.anim
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Trampoline/TrampolineBounce/trampoline_bounce_016.png
+- Assets/Sprites/HintGFX/hintArrow3.png
+- Assets/Sprites/UI/Main Menu/Level Start/level_start_footer.png
+- Assets/Animation/Farmer/farmer_joy.anim
+- Assets/Animation/Button/Stay/Down_London.anim
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_055.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Teleporter/teleporter_base_000.png
+- Assets/Sprites/UI/Main Menu/Level Start/level_start_paint_popup.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_017.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_034.png
+- Assets/Prefabs/Particles/ExplosionParticle.prefab
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Button/Spring/spring_up_london.png
+- Assets/Sprites/HintGFX/hintUnderline12.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Trampoline/TrampolineBounce/trampoline_bounce_017.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/physics_carrot_00.png
+- Assets/Sprites/HintGFX/hintArrow4.png
+- Assets/Sprites/HintGFX/hintArrow2.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_045.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_076.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Socks/sock_00.png
+- Assets/Sprites/HintGFX/hintTNT.png
+- Assets/Sprites/HintGFX/hintUnderline11.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_000.png
+- Assets/Sprites/HintGFX/hintMotion.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_047.png
+- Assets/Sprites/HintGFX/hintArrow14.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_037.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Magnet/magnet_attract_004.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Button/Stay/stay_up_london.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_068.png
+- Assets/Sprites/HintGFX/hintUnderline1.png
+- Assets/Sprites/HintGFX/hintArrowHead.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_088.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_064.png
+- Assets/Prefabs/Particles/CollectableParticles.prefab
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_018.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_015.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_002.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/physicsBrick_00.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_078.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_083.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_026.png
+- Assets/Animation/Button/Stay/Down_Space.anim
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_017.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Joy/farmer_joy_014.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/bonus_00.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_032.png
+- Assets/Sprites/HintGFX/hintShaun.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Button/Stay/stay_up_underground.png
+- Assets/Prefabs/Objects/ButtonAnimationSpring_london.prefab
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_066.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Objects/Trampoline/TrampolineBounce/trampoline_bounce_013.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_065.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_005.png
+- Assets/Sprites/HintGFX/hintArrow16.png
+- Assets/Sprites/HintGFX/hintBucket.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Magnet/magnet_attract_001.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Joy Idle/farmer_joy_idle_005.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Button/Stay/stay_down_space.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_066.png
+- Assets/Animation/Button/Spring/Down_Space.anim
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_046.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage 2/farmer_rage_02_039.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Button/Stay/stay_down_london.png
+- Assets/Sprites/LevelObjects/HSH2/SharedLevelObjects/Farmer/Rage/farmer_rage_01_001.png
+Dependencies:
+- D:/Development/Projects/Unity3D/Unity_2018/hsh_unity_lfs/AssetBundles/StandaloneWindows/shared_assets/shared_game
