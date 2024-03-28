@@ -1,0 +1,134 @@
+ManifestFileVersion: 0
+CRC: 3620546140
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 62ded530ef5c289cc78502873741696f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 16c60de29032da31e3714eb9b0add690
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 62
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 96d6a220e63e3a44abcd8482f053c37d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 42a2d52014f527340b4cfc5d5ce2c20c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 09e39c60accfe2246a141fb74465beee, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 81dc02807f0cdf546b0f11aa02292625, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc81dc01010e9a5438d91d365ee2efdb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1df38381dbfd65f4b82ee2aa0c8fc1b3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc43cbc1cc47caa49b1932b74d1cd840, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bbb01893c80954e419bcd6aca02c3de3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9502b794c6494de4ca7796c3ca83a332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8834db5691153e84496c093b9f4744f7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 553d67d6ef4f734449866773b947cf1f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 298909d79a49e2a48b2ab21c35ebf0e0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c8c1db08de027e946a73961259a3f4ee, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9a89238e848cd340bd53e9413647537, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ccd0b6b8fac2a1c41b6e9e143e632970, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9134ce79240f09e4bbb84a15a7c532b9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5666e73a579334e438c994dfe083669c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4135d2aabac03fd48a3d6b3ba4027995, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 693188bb764e92a4585af4746f49c98a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 29e0a11c8d6adf443a2c5f2934eebfa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0eef357d401a927499318287f3b7db8c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54f5a83e9d022d14c825469b9cf202a1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 326ea17e2b53af543bd3d8338711b59f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 930c25cebc590c74983d6ace9fd9429a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ed1e060f43cb86e478fa22cf6f52291e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1bba26fe59fcd0468734a50b28fe2c1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ecc21aef78e697f4085a3498384b62e3, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 331
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/Sprites/LevelObjects/HSH2/Space/Levels/Level40/040_physicsBox_box_00.png
+- Assets/Sprites/Backgrounds/HSH2_Backgrounds/bg040.png
+- Assets/Sprites/Backgrounds/HSH2_Backgrounds/hr040.png
+- Assets/Sprites/LevelObjects/HSH2/Space/Levels/Level40/level_40 atlas.spriteatlas
+- Assets/Sprites/Backgrounds/HSH2_Backgrounds/fg040.png
+- Assets/Prefabs/HSH2/Level_040.prefab
+Dependencies:
+- D:/Development/Projects/Unity3D/Unity_2018/hsh_unity_lfs/AssetBundles/StandaloneWindows/shared_assets/shared_level
+- D:/Development/Projects/Unity3D/Unity_2018/hsh_unity_lfs/AssetBundles/StandaloneWindows/shared_assets/shared_game
+- D:/Development/Projects/Unity3D/Unity_2018/hsh_unity_lfs/AssetBundles/StandaloneWindows/shared_assets/space
