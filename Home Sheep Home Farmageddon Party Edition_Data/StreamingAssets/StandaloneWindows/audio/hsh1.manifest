@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3165530010
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c7481b117dd311f4b110093aec6b08f2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e54ff3d765f7beda65ce4719e674b53c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1669b0a062dc66842ab1bca41a93ebe4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Audio/episode_farm/clatter3.wav
+- Assets/Prefabs/Audio/AudioController_aditional_hsh1.prefab
+- Assets/Audio/episode_farm/clonk1.wav
+- Assets/Audio/episode_farm/brick-loop.wav
+- Assets/Audio/episode_farm/timed.wav
+- Assets/Audio/episode_farm/gate-open.wav
+- Assets/Audio/episode_farm/ping-long.wav
+- Assets/Audio/episode_farm/parp01.wav
+- Assets/Audio/episode_farm/switch.wav
+- Assets/Audio/episode_farm/clunk2.wav
+- Assets/Audio/episode_farm/parp02.wav
+- Assets/Audio/episode_farm/push-loop.wav
+- Assets/Audio/episode_farm/clatter2.wav
+- Assets/Audio/episode_farm/clunk1.wav
+- Assets/Audio/episode_farm/rusty-squeak.wav
+- Assets/Audio/episode_farm/clatter1.wav
+- Assets/Audio/episode_farm/ping-medium.wav
+- Assets/Audio/episode_farm/atmosphere.wav
+Dependencies:
+- D:/Development/Projects/Unity3D/Unity_2018/hsh_unity_lfs/AssetBundles/StandaloneWindows/audio/shared_game

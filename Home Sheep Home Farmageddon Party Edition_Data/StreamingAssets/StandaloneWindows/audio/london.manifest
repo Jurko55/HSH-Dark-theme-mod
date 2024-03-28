@@ -1,0 +1,91 @@
+ManifestFileVersion: 0
+CRC: 883120358
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a44e7206fb96c64a04ef8cef9ac4a54f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e54ff3d765f7beda65ce4719e674b53c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1669b0a062dc66842ab1bca41a93ebe4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Audio/episode_london/10/creak3.wav
+- Assets/Audio/episode_london/10/creak4.wav
+- Assets/Audio/episode_london/music/musicL24.wav
+- Assets/Audio/episode_london/13/foliage_2.wav
+- Assets/Audio/episode_london/03/lorryloop.wav
+- Assets/Audio/episode_london/04/brick1.wav
+- Assets/Audio/episode_london/08/pendulumswing1.wav
+- Assets/Audio/episode_london/02/tinnythemeloop.wav
+- Assets/Audio/episode_london/12/hatcollapse.wav
+- Assets/Audio/episode_london/11/glasssmash.wav
+- Assets/Audio/episode_london/14/fountainloop.wav
+- Assets/Audio/episode_london/music/musicL17.wav
+- Assets/Audio/episode_london/15/truckaway.wav
+- Assets/Audio/episode_london/02/carbeep2.wav
+- Assets/Audio/episode_london/05/chimney2.wav
+- Assets/Audio/episode_london/03/speedcamerabreak1.wav
+- Assets/Audio/episode_london/06/scaffoldingfall.wav
+- Assets/Audio/episode_london/14/lightson.wav
+- Assets/Audio/episode_london/13/laserloop.wav
+- Assets/Audio/episode_london/11/impactglass.wav
+- Assets/Audio/episode_london/15/vancrash2.wav
+- Assets/Audio/episode_london/02/carbeep1.wav
+- Assets/Audio/episode_london/11/cannontimmy.wav
+- Assets/Audio/episode_london/09/bigben.wav
+- Assets/Audio/episode_london/01/starterfail1.wav
+- Assets/Audio/episode_london/01/suitcase.wav
+- Assets/Audio/episode_london/12/hatinflate.wav
+- Assets/Audio/episode_london/05/chimney3.wav
+- Assets/Audio/episode_london/05/chimney1.wav
+- Assets/Audio/episode_london/06/balloonbouncetimmy.wav
+- Assets/Audio/episode_london/15/skidstop.wav
+- Assets/Audio/episode_london/02/vanloop.wav
+- Assets/Audio/episode_london/06/balloonbounceshaun.wav
+- Assets/Audio/episode_london/01/beatfist2.wav
+- Assets/Audio/episode_london/10/creak2.wav
+- Assets/Audio/episode_london/04/busidleloop.wav
+- Assets/Audio/episode_london/04/brick3.wav
+- Assets/Audio/episode_london/atmosphere/atmoslondonmuffled.wav
+- Assets/Audio/episode_london/doorlondon.wav
+- Assets/Audio/episode_london/09/ticktockloop.wav
+- Assets/Audio/episode_london/08/pendulumswing2.wav
+- Assets/Audio/episode_london/08/pendulumswing3.wav
+- Assets/Audio/episode_london/12/marchloop.wav
+- Assets/Audio/episode_london/13/alarm.wav
+- Assets/Audio/episode_london/13/foliage_1.wav
+- Assets/Audio/episode_london/06/scaffoldingcrash.wav
+- Assets/Audio/episode_london/04/brick2.wav
+- Assets/Audio/episode_london/atmosphere/atmostourists.wav
+- Assets/Audio/episode_london/01/vanstart.wav
+- Assets/Audio/episode_london/07/cranestart.wav
+- Assets/Audio/episode_london/atmosphere/atmoslondon.wav
+- Assets/Audio/episode_london/11/cannonshirley.wav
+- Assets/Audio/episode_london/01/jackfall.wav
+- Assets/Audio/episode_london/03/speedcameraflash.wav
+- Assets/Audio/episode_london/15/vancrash1.wav
+- Assets/Audio/episode_london/04/brick4.wav
+- Assets/Audio/episode_london/07/craneloop.wav
+- Assets/Audio/episode_london/06/balloonpop.wav
+- Assets/Audio/episode_london/01/beatfist1.wav
+- Assets/Audio/episode_london/11/cannonshaun.wav
+- Assets/Audio/episode_london/10/creak1.wav
+- Assets/Audio/episode_london/music/musicL27.wav
+- Assets/Audio/episode_london/01/starterfail2.wav
+- Assets/Audio/episode_london/03/speedcamerabreak3.wav
+- Assets/Audio/episode_london/03/speedcamerabreak2.wav
+- Assets/Audio/episode_london/music/musicL28.wav
+- Assets/Prefabs/Audio/AudioController_aditional_london.prefab
+Dependencies:
+- D:/Development/Projects/Unity3D/Unity_2018/hsh_unity_lfs/AssetBundles/StandaloneWindows/audio/shared_game

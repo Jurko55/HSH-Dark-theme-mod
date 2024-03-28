@@ -1,0 +1,144 @@
+ManifestFileVersion: 0
+CRC: 288027816
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2b89a27051462a1314ebf6b4a974028f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bfd4d8fb17eadea9f1060fbbce449c43
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1669b0a062dc66842ab1bca41a93ebe4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d8cd7e379c2ccc242af04f0746d2d65b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: afc3135f9b5f7b5478b3a0645904bd2c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Audio/shared_game_audio/party/PIZZA-ding-02.wav
+- Assets/Audio/shared_game_audio/music/fail04.wav
+- Assets/Audio/shared_game_audio/party/PIZZA-munch-02.wav
+- Assets/Audio/shared_game_audio/ui/UI-socks_extras.wav
+- Assets/Audio/shared_game_audio/music/restart02.wav
+- Assets/Audio/shared_game_audio/sheep/shaunalert02.wav
+- Assets/Audio/shared_game_audio/music/win02.wav
+- Assets/Audio/shared_game_audio/party/PIZZA-munch-05.wav
+- Assets/Audio/shared_game_audio/ui/ui_sci_fi_swipe_screen_transition.wav
+- Assets/Audio/shared_game_audio/sheep/timmybump02.wav
+- Assets/Audio/shared_game_audio/party/football-cheer-01.wav
+- Assets/Audio/shared_game_audio/party/hurdles-dead-sheep-01.wav
+- Assets/Audio/shared_game_audio/party/sheep-death-08.wav
+- Assets/Audio/shared_game_audio/party/sheep-death-01.wav
+- Assets/Audio/shared_game_audio/party/skipping-change_direction.wav
+- Assets/Audio/shared_game_audio/sheep/timmyland.wav
+- Assets/Audio/shared_game_audio/sheep/shirleybump01.wav
+- Assets/Audio/shared_game_audio/party/PIZZA-munch-04.wav
+- Assets/Audio/shared_game_audio/sheep/shirleyalert03.wav
+- Assets/Audio/shared_game_audio/party/PIZZA-munch-07.wav
+- Assets/Audio/shared_game_audio/music/fail02.wav
+- Assets/Audio/shared_game_audio/sheep/shaunbump01.wav
+- Assets/Audio/shared_game_audio/party/LULA-COUNTDOWN.wav
+- Assets/Audio/shared_game_audio/party/skipping-left-to-right.wav
+- Assets/Audio/shared_game_audio/party/hurdles-dead-sheep-04.wav
+- Assets/Audio/shared_game_audio/party/hurdles-dead-sheep-03.wav
+- Assets/Audio/shared_game_audio/music/fail01.wav
+- Assets/Audio/shared_game_audio/music/restart03.wav
+- Assets/Audio/shared_game_audio/sheep/shirleyalert01.wav
+- Assets/Audio/shared_game_audio/party/PIZZA-munch-01.wav
+- Assets/Audio/shared_game_audio/music/party/game_music-space_rhumba.wav
+- Assets/Audio/shared_game_audio/party/power_up-speed.wav
+- Assets/Audio/shared_game_audio/music/party/HSH3-music-rankings-01-in_the_barn.wav
+- Assets/Audio/shared_game_audio/party/sheep-death-03.wav
+- Assets/Audio/shared_game_audio/music/start03.wav
+- Assets/Prefabs/Audio/AudioObject.prefab
+- Assets/Audio/shared_game_audio/music/win01.wav
+- Assets/Audio/shared_game_audio/party/speedcameraflash.wav
+- Assets/Audio/shared_game_audio/party/power_up-jump.wav
+- Assets/Audio/shared_game_audio/party/sheep-death-04.wav
+- Assets/Audio/shared_game_audio/music/restart06.wav
+- Assets/Audio/shared_game_audio/party/sheep-death-06.wav
+- Assets/Audio/shared_game_audio/music/fail03.wav
+- Assets/Audio/shared_game_audio/music/win04.wav
+- Assets/Audio/shared_game_audio/music/timed.wav
+- Assets/Audio/shared_game_audio/music/fail05.wav
+- Assets/Audio/shared_game_audio/party/crusher-coming_down.wav
+- Assets/Audio/shared_game_audio/music/party/game_music-combine_harvester_ride-01.wav
+- Assets/Audio/shared_game_audio/party/football-score.wav
+- Assets/Audio/shared_game_audio/music/menu.wav
+- Assets/Audio/shared_game_audio/music/start05.wav
+- Assets/Audio/shared_game_audio/ui/ui_move_cursor.wav
+- Assets/Audio/shared_game_audio/party/football-cheer-02.wav
+- Assets/Audio/shared_game_audio/sheep/jump-timmy.wav
+- Assets/Audio/shared_game_audio/party/LULA-RASPBERRY-with_whooses.wav
+- Assets/Audio/shared_game_audio/party/sheep-death-07.wav
+- Assets/Audio/shared_game_audio/party/HSH-confetti_cheer.wav
+- Assets/Audio/shared_game_audio/sheep/timmybump03.wav
+- Assets/Audio/shared_game_audio/party/Lula_levitating.wav
+- Assets/Audio/shared_game_audio/party/hurdles-dead-sheep-05.wav
+- Assets/Audio/shared_game_audio/sheep/shirleyland.wav
+- Assets/Audio/shared_game_audio/sheep/shaunbump02.wav
+- Assets/Audio/shared_game_audio/music/restart04.wav
+- Assets/Prefabs/Audio/AudioController.prefab
+- Assets/Audio/shared_game_audio/party/crusher-lands.wav
+- Assets/Audio/shared_game_audio/sheep/jump-shirley.wav
+- Assets/Prefabs/Audio/AudioController_aditional_party.prefab
+- Assets/Audio/shared_game_audio/party/football-cheer-03.wav
+- Assets/Audio/shared_game_audio/sheep/timmyalert01.wav
+- Assets/Audio/shared_game_audio/sheep/timmybump01.wav
+- Assets/Audio/shared_game_audio/sheep/shirleywalkloop.wav
+- Assets/Audio/shared_game_audio/party/sheep-death-02.wav
+- Assets/Audio/shared_game_audio/sheep/timmyalert02.wav
+- Assets/Audio/shared_game_audio/party/crusher-coming_up.wav
+- Assets/Audio/shared_game_audio/ui/ui_select.wav
+- Assets/Audio/shared_game_audio/party/power_up-super.wav
+- Assets/Audio/shared_game_audio/music/restart05.wav
+- Assets/Audio/shared_game_audio/sheep/shaunalert01.wav
+- Assets/Audio/shared_game_audio/music/intro.wav
+- Assets/Audio/shared_game_audio/party/hurdles-hay-ball-roll.wav
+- Assets/Audio/shared_game_audio/sheep/shirleyalert02.wav
+- Assets/Audio/shared_game_audio/sheep/shaunland.wav
+- Assets/Audio/shared_game_audio/party/sheep-death-05.wav
+- Assets/Audio/shared_game_audio/music/win03.wav
+- Assets/Audio/shared_game_audio/sheep/timmywalkloop.wav
+- Assets/Audio/shared_game_audio/music/party/game_music-farm_opening.wav
+- Assets/Audio/shared_game_audio/party/crusher-vibrate.wav
+- Assets/Audio/shared_game_audio/music/party/game_music-combine_harvester_ride-02.wav
+- Assets/Audio/shared_game_audio/ui/UI-star.wav
+- Assets/Audio/shared_game_audio/party/hurdles-dead-sheep-02.wav
+- Assets/Audio/shared_game_audio/music/start02.wav
+- Assets/Audio/shared_game_audio/party/PIZZA-munch-06.wav
+- Assets/Audio/shared_game_audio/ui/UI-countUp-05.wav
+- Assets/Audio/shared_game_audio/sheep/shaunalert03.wav
+- Assets/Audio/shared_game_audio/party/PIZZA-munch-03.wav
+- Assets/Audio/shared_game_audio/sheep/shaunbump03.wav
+- Assets/Audio/shared_game_audio/party/COUNTDOWN-lula_update.wav
+- Assets/Audio/shared_game_audio/sheep/jump-shaun.wav
+- Assets/Audio/shared_game_audio/music/party/game_music-arrest_that_alien.wav
+- Assets/Audio/shared_game_audio/sheep/timmyalert03.wav
+- Assets/Audio/shared_game_audio/music/restart01.wav
+- Assets/Audio/shared_game_audio/music/party/game_music-combine_harvester_jump.wav
+- Assets/Audio/shared_game_audio/sheep/shaunwalkloop.wav
+- Assets/Audio/shared_game_audio/sheep/shirleybump03.wav
+- Assets/Audio/shared_game_audio/party/power_up-electrocute.wav
+- Assets/Audio/shared_game_audio/music/start04.wav
+- Assets/Audio/shared_game_audio/music/gamewin.wav
+- Assets/Audio/shared_game_audio/party/PIZZA-ding-03-microwave.wav
+- Assets/Audio/shared_game_audio/party/hurdles-dead-sheep-06.wav
+- Assets/Audio/shared_game_audio/sheep/shaunbump04.wav
+- Assets/Audio/shared_game_audio/sheep/shirleybump02.wav
+- Assets/Audio/shared_game_audio/music/silence.wav
+- Assets/Audio/shared_game_audio/music/start01.wav
+- Assets/Audio/shared_game_audio/party/skipping-right-to-left.wav
+- Assets/Audio/shared_game_audio/party/crusher-switch.wav
+Dependencies: []

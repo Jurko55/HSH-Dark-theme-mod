@@ -1,0 +1,89 @@
+ManifestFileVersion: 0
+CRC: 1267749798
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 04f59d9fec8927ba51ea2d61b28512ae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e54ff3d765f7beda65ce4719e674b53c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1669b0a062dc66842ab1bca41a93ebe4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Audio/episode_underground/atmosphere/atmosundergroundfall.wav
+- Assets/Audio/episode_underground/atmosphere/atmosdidgeridoo.wav
+- Assets/Audio/episode_underground/pop/pop1.wav
+- Assets/Audio/episode_underground/pop/pop5.wav
+- Assets/Audio/episode_underground/misc/bouldercrash.wav
+- Assets/Audio/episode_underground/bone/bone1.wav
+- Assets/Audio/episode_underground/misc/ropesnap.wav
+- Assets/Audio/episode_underground/misc/parachuteshirley.wav
+- Assets/Audio/episode_underground/misc/ropecreak1.wav
+- Assets/Audio/episode_underground/rocks/rockfall2.wav
+- Assets/Audio/episode_underground/box/box4.wav
+- Assets/Audio/episode_underground/15/airplane.wav
+- Assets/Audio/episode_underground/splash/splash2.wav
+- Assets/Audio/episode_underground/bone/bone2.wav
+- Assets/Audio/episode_underground/misc/zombieuurgh.wav
+- Assets/Audio/episode_underground/bone/bone3.wav
+- Assets/Audio/episode_underground/misc/giantboulder.wav
+- Assets/Audio/episode_underground/misc/parachuteshaun.wav
+- Assets/Prefabs/Audio/AudioController_aditional_underground.prefab
+- Assets/Audio/episode_underground/atmosphere/atmosundergroundwater.wav
+- Assets/Audio/episode_underground/rocks/rockfall4.wav
+- Assets/Audio/episode_underground/music/musicU15.wav
+- Assets/Audio/episode_underground/misc/stonepushloop.wav
+- Assets/Audio/episode_underground/rocks/rockfall1.wav
+- Assets/Audio/episode_underground/bone/bone4.wav
+- Assets/Audio/episode_underground/misc/waterdrain.wav
+- Assets/Audio/episode_underground/pop/pop4.wav
+- Assets/Audio/episode_underground/misc/pumploop.wav
+- Assets/Audio/episode_underground/explosion/explosion3.wav
+- Assets/Audio/episode_underground/misc/woodcreaks.wav
+- Assets/Audio/episode_underground/misc/doorunderground.wav
+- Assets/Audio/episode_underground/misc/wheelcreak.wav
+- Assets/Audio/episode_underground/clang/clang1.wav
+- Assets/Audio/episode_underground/misc/liftloop.wav
+- Assets/Audio/episode_underground/clang/clang3.wav
+- Assets/Audio/episode_underground/splash/splash4.wav
+- Assets/Audio/episode_underground/splash/splash5.wav
+- Assets/Audio/episode_underground/music/musicU8.wav
+- Assets/Audio/episode_underground/misc/parachutetimmy.wav
+- Assets/Audio/episode_underground/misc/plunger.wav
+- Assets/Audio/episode_underground/misc/twigbreak.wav
+- Assets/Audio/episode_underground/pop/pop2.wav
+- Assets/Audio/episode_underground/explosion/explosion2.wav
+- Assets/Audio/episode_underground/clang/clang4.wav
+- Assets/Audio/episode_underground/box/box3.wav
+- Assets/Audio/episode_underground/misc/woodbreak.wav
+- Assets/Audio/episode_underground/pop/pop3.wav
+- Assets/Audio/episode_underground/box/box2.wav
+- Assets/Audio/episode_underground/rocks/smallrock2.wav
+- Assets/Audio/episode_underground/splash/splash1.wav
+- Assets/Audio/episode_underground/misc/clunkclick.wav
+- Assets/Audio/episode_underground/misc/windlassloop.wav
+- Assets/Audio/episode_underground/rocks/smallrock3.wav
+- Assets/Audio/episode_underground/rocks/rockfall5.wav
+- Assets/Audio/episode_underground/misc/waterfillloop.wav
+- Assets/Audio/episode_underground/splash/splash3.wav
+- Assets/Audio/episode_underground/box/box1.wav
+- Assets/Audio/episode_underground/misc/ropecreak2.wav
+- Assets/Audio/episode_underground/explosion/explosion1.wav
+- Assets/Audio/episode_underground/misc/fuse.wav
+- Assets/Audio/episode_underground/misc/shock.wav
+- Assets/Audio/episode_underground/rocks/rockfall3.wav
+- Assets/Audio/episode_underground/rocks/smallrock1.wav
+- Assets/Audio/episode_underground/atmosphere/atmosundergrounddrips.wav
+- Assets/Audio/episode_underground/clang/clang2.wav
+Dependencies:
+- D:/Development/Projects/Unity3D/Unity_2018/hsh_unity_lfs/AssetBundles/StandaloneWindows/audio/shared_game

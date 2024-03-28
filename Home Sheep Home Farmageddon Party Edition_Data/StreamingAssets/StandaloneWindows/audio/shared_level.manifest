@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2621941038
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 54118f1226c11f124978743052a80698
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Audio/shared_level_audio/bonussock.wav
+- Assets/Audio/shared_level_audio/timmywalkscaffoldloop.wav
+- Assets/Audio/shared_level_audio/bonuscake.wav
+- Assets/Audio/shared_level_audio/trampoline-shaun.wav
+- Assets/Audio/shared_level_audio/atmosfarm.wav
+- Assets/Audio/shared_level_audio/shirleywalkscaffoldloop.wav
+- Assets/Audio/shared_level_audio/magnetclunk.wav
+- Assets/Audio/shared_level_audio/angryfarmer.wav
+- Assets/Audio/shared_level_audio/switchoff.wav
+- Assets/Audio/shared_level_audio/trampoline-timmy.wav
+- Assets/Audio/shared_level_audio/switchon.wav
+- Assets/Audio/shared_level_audio/shaunwalkscaffoldloop.wav
+- Assets/Audio/shared_level_audio/bonuslevel_alt.wav
+- Assets/Audio/shared_level_audio/thunk1.wav
+- Assets/Audio/shared_level_audio/hiddenroom.wav
+- Assets/Audio/shared_level_audio/angryfarmershort.wav
+- Assets/Audio/shared_level_audio/trampoline-shirley.wav
+- Assets/Audio/shared_level_audio/bonuslevel.wav
+- Assets/Audio/shared_level_audio/thunk2.wav
+- Assets/Audio/shared_level_audio/magnethum.wav
+- Assets/Audio/shared_level_audio/thud1.wav
+- Assets/Audio/shared_level_audio/atmostwilight.wav
+- Assets/Audio/shared_level_audio/thunk3.wav
+Dependencies: []

@@ -1,0 +1,91 @@
+ManifestFileVersion: 0
+CRC: 4046599793
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2738fd029bd5f66f67ecd48f9e92842b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e54ff3d765f7beda65ce4719e674b53c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1669b0a062dc66842ab1bca41a93ebe4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Audio/episode_space/01/carrotpops.wav
+- Assets/Audio/episode_space/music/musicSpaceEnd1.wav
+- Assets/Audio/episode_space/01/dishremove.wav
+- Assets/Audio/episode_space/portal/portalrelease1.wav
+- Assets/Audio/episode_space/01/shiparrive.wav
+- Assets/Audio/episode_space/misc/drone2loop.wav
+- Assets/Audio/episode_space/teleport/teleportdown.wav
+- Assets/Audio/episode_space/forcefield/forcefieldhumloop.wav
+- Assets/Audio/episode_space/12/helmettimmy.wav
+- Assets/Audio/episode_space/rotation/rotationloop.wav
+- Assets/Audio/episode_space/12/helmetshaun.wav
+- Assets/Audio/episode_space/atmosphere/atmosspaceship.wav
+- Assets/Prefabs/Audio/AudioController_aditional_space.prefab
+- Assets/Audio/episode_space/rotation/rotationend.wav
+- Assets/Audio/episode_space/alien/slurptea1.wav
+- Assets/Audio/episode_space/music/musicSpaceIntro.wav
+- Assets/Audio/episode_space/01/laser3.wav
+- Assets/Audio/episode_space/crates/spacecrate5.wav
+- Assets/Audio/episode_space/12/helmetshirley.wav
+- Assets/Audio/episode_space/teleport/teleportoverload.wav
+- Assets/Audio/episode_space/music/musicSpaceEnd3.wav
+- Assets/Audio/episode_space/alien/slurptea2.wav
+- Assets/Audio/episode_space/15/rocket.wav
+- Assets/Audio/episode_space/portal/portalbig.wav
+- Assets/Audio/episode_space/forcefield/forcefieldzaploop.wav
+- Assets/Audio/episode_space/portal/portalmedium.wav
+- Assets/Audio/episode_space/portal/portalrelease2.wav
+- Assets/Audio/episode_space/misc/hal2.wav
+- Assets/Audio/episode_space/misc/hal5.wav
+- Assets/Audio/episode_space/crates/spacecrate3.wav
+- Assets/Audio/episode_space/crates/spacecrate1.wav
+- Assets/Audio/episode_space/01/shipaway.wav
+- Assets/Audio/episode_space/misc/clunk.wav
+- Assets/Audio/episode_space/atmosphere/atmosouterspace.wav
+- Assets/Audio/episode_space/music/musicSpaceRestart1.wav
+- Assets/Audio/episode_space/crates/spacecrate2.wav
+- Assets/Audio/episode_space/misc/hal4.wav
+- Assets/Audio/episode_space/teleport/teleportreset.wav
+- Assets/Audio/episode_space/teleport/teleportup.wav
+- Assets/Audio/episode_space/music/musicSpaceEnd5.wav
+- Assets/Audio/episode_space/misc/hal1.wav
+- Assets/Audio/episode_space/music/musicSpaceStart4.wav
+- Assets/Audio/episode_space/01/laser2.wav
+- Assets/Audio/episode_space/01/tractorbeam.wav
+- Assets/Audio/episode_space/music/musicSpaceRestart2.wav
+- Assets/Audio/episode_space/music/musicSpaceComplete.wav
+- Assets/Audio/episode_space/music/musicSpaceStart5.wav
+- Assets/Audio/episode_space/music/musicSpaceEnd4.wav
+- Assets/Audio/episode_space/misc/egghatch.wav
+- Assets/Audio/episode_space/misc/hal3.wav
+- Assets/Audio/episode_space/01/laser1.wav
+- Assets/Audio/episode_space/01/dishbreak.wav
+- Assets/Audio/episode_space/01/football1.wav
+- Assets/Audio/episode_space/music/musicSpaceStart1.wav
+- Assets/Audio/episode_space/alien/alienbutton.wav
+- Assets/Audio/episode_space/music/musicSpaceEnd2.wav
+- Assets/Audio/episode_space/misc/obeliskloop.wav
+- Assets/Audio/episode_space/01/football2.wav
+- Assets/Audio/episode_space/music/musicSpaceFail1.wav
+- Assets/Audio/episode_space/misc/belljar.wav
+- Assets/Audio/episode_space/portal/portalingsmall.wav
+- Assets/Audio/episode_space/teleport/teleporttransfer.wav
+- Assets/Audio/episode_space/music/musicSpaceStart2.wav
+- Assets/Audio/episode_space/crates/spacecrate4.wav
+- Assets/Audio/episode_space/music/musicSpaceStart3.wav
+- Assets/Audio/episode_space/misc/doorspace.wav
+Dependencies:
+- D:/Development/Projects/Unity3D/Unity_2018/hsh_unity_lfs/AssetBundles/StandaloneWindows/audio/underground
+- D:/Development/Projects/Unity3D/Unity_2018/hsh_unity_lfs/AssetBundles/StandaloneWindows/audio/shared_game
